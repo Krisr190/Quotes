@@ -1,5 +1,4 @@
-/*eslint-env es6*/
- [
+[
     {
         "text": "There are people who make no mistakes because they never wish to do anything worth doing",
         "author": "Goethe"
@@ -39,5 +38,5 @@
     {
 	"text": "Wealth is liberty - liberty to seek recreation, liberty to enjoy life, liberty to improve the mind: it is disposable time and nothing more",
         "author": "Karl Marx"
-	},
+	}
 ]
