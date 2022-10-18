@@ -37,6 +37,6 @@
 	},
     {
 	"text": "Wealth is liberty - liberty to seek recreation, liberty to enjoy life, liberty to improve the mind: it is disposable time and nothing more",
-        "author": "Karl Marx"
+        "author": "Karl Mars"
 	}
 ]
