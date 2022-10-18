@@ -1,27 +1,27 @@
 [
 {
     
-    "text": "Wealth is liberty - liberty to seek recreation, liberty to enjoy life, liberty to improve the mind: it is disposable time and nothing more",
-        "author": "Karl Marx"
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall",
+    "author": "Nelson Mandela"
 },
   {
-    "text": "Ability is what you are capable of, motivation determines what you do, but attitude determines how well you do it",
-        "author": "Lou Holtz"
+    "text": "The way to get started is to quit talking and begin doing",
+    "author": "Walt Disney"
 },
     {
-    "text": "Nothing can be loved or hated unless it is first understood",
-        "author": "Leonardo DaVinci"
+    "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking",
+    "author": "Steve Jobs"
 },
     {
-   "text": "Time is the king of all men, he is their parent and their grave, and gives them what he will and not what they crave",
-        "author": "Pericles"
+    "text": "If life were predictable it would cease to be life, and be without flavor",
+    "author": "Eleanor Roosevelt"
 },
     {
-    "text": "Don’t ever solve the same the same problem three times in a row. If you have the same question or problem three times in a row, systematize it",
-        "author": "Joel Runyun"
+    "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success",
+    "author": "James Cameron"
 },
     {
-   "text": "The truth is revealed by removing things which stand in its light, an art, not unlike sculpture, in which the artist creates, not by building, but by hacking away",
-        author: "Alan Watts"
+    "text": "Life is what happens when you're busy making other plans",
+    "author": "John Lennon"
 }
     ]
